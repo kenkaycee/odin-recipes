@@ -1,3 +1,4 @@
 # odin-recipes
-My first Webiste project
+My first Website project.
+
 I will build a basic recipe webiste using HTML
